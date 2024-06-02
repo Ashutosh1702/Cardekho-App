@@ -64,26 +64,8 @@ The CarDekho web application is designed to provide a comprehensive and user-fri
    - **Live Chat:** Real-time support through live chat with customer service representatives.
 
 ### Conclusion
-The CarDekho web app is a feature-rich platform aimed at simplifying the car buying and selling process. It provides users with extensive information, tools, and services to make informed decisions, ensuring a seamless and efficient experience.
 
-## Project Structure
-arduino
-Copy code
-cardekho-app/
-├── public/
-│   └── index.html
-├── src/
-│   ├── assets/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── Homepage.jsx
-│   │   └── CarDetails.jsx
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
-├── package.json
-├── README.md
-└── vite.config.js
+The CarDekho web app is a feature-rich platform aimed at simplifying the car buying and selling process. It provides users with extensive information, tools, and services to make informed decisions, ensuring a seamless and efficient experience.
 
 
 ## 🌐 `Languages and Tools used`
@@ -110,6 +92,9 @@ Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 License
 This project is licensed under the MIT License. See the LICENSE file for more information.
+
+# Main pages of the project
+
 
 ## Contact
 For any questions or feedback, please contact:
